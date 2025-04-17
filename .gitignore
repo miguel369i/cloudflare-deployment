@@ -1,4 +1,1 @@
-example-hono-onworkers/
-example-nextjs-on-pages/
-example-hono-onworkers/
-example-nextjs-on-pages/
+# Remove submodule directories since they will be tracked as submodules
